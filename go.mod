@@ -1,6 +1,6 @@
 module github.com/miniclip/gonsul
 
-go 1.16
+go 1.17
 
 require (
 	github.com/alcortesm/tgz v0.0.0-20161220082320-9c5fe88206d7 // indirect
